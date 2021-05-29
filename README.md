@@ -4,6 +4,6 @@ The Sentiment Analysis FINAL file attempts to resolve this problem by creating a
 
 More explanation of the program is given as comments in the files themselves, along with frequent debug/testing checks for each part of the code. 
 
-To run this program, you need to download the Amazon Video Game review JSON file at the "5-core" section here: https://jmcauley.ucsd.edu/data/amazon/
+To run this program, you need to download the Amazon Video Game review JSON file in the "5-core" section here: https://jmcauley.ucsd.edu/data/amazon/
 
 Keep in mind that although the collective size of the training and test set is adjustable, because Sentiment Analysis FINAL makes training and testing sets with an equal number of positive and negative reviews, the actual maximum SIZE is lower than the 230k reviews in the JSON file and depends on the POSITIVE threshold selected. 
