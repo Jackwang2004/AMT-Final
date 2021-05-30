@@ -7,3 +7,6 @@ More explanation of the program is given as comments in the files themselves, al
 To run this program, you need to download the Amazon Video Game review JSON file in the "5-core" section here: https://jmcauley.ucsd.edu/data/amazon/
 
 Keep in mind that although the collective size of the training and test set is adjustable, since Sentiment Analysis FINAL makes training and testing sets with an equal number of positive and negative reviews, the actual maximum size is lower than the 230k reviews in the JSON file and depends on the POSITIVE threshold selected. 
+
+To run the program, write in terminal:
+ipython notebook FILENAME
